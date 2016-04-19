@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/commons-math3-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/commons-math3-3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/commons-math3-3.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/commons-math3-3.2-tests.jar"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/commons-math3-3.2-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/Jama-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/poi-3.9/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/poi-3.9/poi-examples-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/poi-3.9/poi-excelant-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/poi-3.9/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/poi-3.9/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/poi-3.9/poi-scratchpad-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/poi-bin-3.9-20121203/poi-3.9/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/poi-bin-3.9-20121203/poi-3.9/ooxml-lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/GSU/Machine Learning/Machine Learning Source Code Files/Machine_Gene/lib/poi-bin-3.9-20121203/poi-3.9/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
