@@ -1,2 +1,2 @@
-# ClassificationandMissingValuesImputation
-Inputted missing values in the data set using mean, median and KNN, Implemented classification using Support Vector Machine and Decision trees following the imputation, Analyzed the effect of different imputation methods based on the performance of classifiers.
+# Impact of Missing Values imputation methods on classification of Gene Data
+Inputted missing values in the data set using mean, median and KNN. Implemented classification using Support Vector Machine and Decision trees following the imputation. Analyzed the effect of different imputation methods based on the performance of classifiers. Implemented the classification and missing value estimation using Python and Java.
